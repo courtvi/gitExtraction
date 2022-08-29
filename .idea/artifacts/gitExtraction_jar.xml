@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gitExtraction:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gitExtraction_jar</output-path>
+    <root id="archive" name="gitExtraction.jar">
+      <element id="module-output" name="gitExtraction" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/googlecode/javaewah/JavaEWAH/1.1.13/JavaEWAH-1.1.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/maven/maven-model/3.8.5/maven-model-3.8.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jgit/org.eclipse.jgit/5.13.1.202206130422-r/org.eclipse.jgit-5.13.1.202206130422-r.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.0-alpha7/slf4j-api-2.0.0-alpha7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
